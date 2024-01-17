@@ -1,0 +1,11 @@
+{
+	"id": "com.silferein.cardigan",
+	"name": "Cardigan",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Advanced card-based notetaking",
+	"author": "John Lynn <john@silferein.com>",
+	"authorUrl": "https://silferein.com",
+	"fundingUrl": "https://silferein.com",
+	"isDesktopOnly": false
+}
